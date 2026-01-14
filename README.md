@@ -26,7 +26,7 @@
 const hoangDuy = {
     role: "4th Year CS Student → Backend Developer",
     location: "Vietnam 🇻🇳",
-    education: "Computer Science",
+    education: "Information Technology",
     interests: ["APIs", "Databases", "Microservices", "DevOps"],
     currentlyLearning: ["System Design", "Cloud Architecture", "Docker & K8s"],
     lookingFor: "Internship / Junior Backend Developer roles",
