@@ -61,8 +61,8 @@ const hoangduy0308 = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&hide=html,css" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages">
 </div>
 
 ---
@@ -70,7 +70,7 @@ const hoangduy0308 = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=4a4e69&ring=9a8c98&fire=e0e1dd&currStreakLabel=e0e1dd&sideLabels=a0a3bd&currStreakNum=e0e1dd&sideNums=a0a3bd&dates=4a4e69" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
@@ -87,7 +87,7 @@ const hoangduy0308 = {
 
 <div align="center">
   <a href="https://github.com/hoangduy0308/hoangduy0308">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98" alt="Repo Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=tokyonight&hide_border=true" alt="Repo Card">
   </a>
 </div>
 
