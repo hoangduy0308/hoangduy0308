@@ -55,7 +55,7 @@ const hoangDuy = {
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Antigravity](https://img.shields.io/badge/Antigravity-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-%2300BCD4.svg?style=for-the-badge)
 
 </div>
 
