@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/hoangduy0308/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://t.me/hdi0308">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </div>
 
 ---
