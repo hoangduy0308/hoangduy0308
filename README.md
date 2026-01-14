@@ -64,12 +64,12 @@ const hoangDuy = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=9a8c98&icon_color=4a4e69&text_color=e0e1dd" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=9a8c98&text_color=e0e1dd" height="165" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangduy0308&theme=tokyonight" alt="GitHub Activity">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=4a4e69&ring=9a8c98&fire=e0e1dd&currStreakLabel=9a8c98" alt="GitHub Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangduy0308&theme=tokyonight" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangduy0308&theme=tokyonight" height="160">
 </div>
 
 ---
