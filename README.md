@@ -77,16 +77,10 @@ const hoangduy0308 = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=default&hide_border=true&bg_color=e0e1dd&title_color=1a1a2e&text_color=4a4e69&icon_color=9a8c98">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98" alt="GitHub Stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&hide=html,css">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=default&hide_border=true&bg_color=e0e1dd&title_color=1a1a2e&text_color=4a4e69&hide=html,css">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&hide=html,css" alt="Top Languages">
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98#gh-dark-mode-only" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4a4e69&icon_color=9a8c98#gh-light-mode-only" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&hide=html,css#gh-dark-mode-only" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4a4e69&hide=html,css#gh-light-mode-only" alt="Top Languages">
 </div>
 
 ---
@@ -94,11 +88,8 @@ const hoangduy0308 = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=4a4e69&ring=9a8c98&fire=e0e1dd&currStreakLabel=e0e1dd&sideLabels=a0a3bd&currStreakNum=e0e1dd&sideNums=a0a3bd&dates=4a4e69">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=default&hide_border=true&background=e0e1dd&stroke=9a8c98&ring=4a4e69&fire=1a1a2e&currStreakLabel=1a1a2e&sideLabels=4a4e69&currStreakNum=1a1a2e&sideNums=4a4e69&dates=9a8c98">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=4a4e69&ring=9a8c98&fire=e0e1dd&currStreakLabel=e0e1dd&sideLabels=a0a3bd&currStreakNum=e0e1dd&sideNums=a0a3bd&dates=4a4e69">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=4a4e69&ring=9a8c98&fire=e0e1dd&currStreakLabel=e0e1dd&sideLabels=a0a3bd&currStreakNum=e0e1dd&sideNums=a0a3bd&dates=4a4e69#gh-dark-mode-only" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=default&hide_border=true&background=ffffff&stroke=9a8c98&ring=4a4e69&fire=1a1a2e&currStreakLabel=1a1a2e&sideLabels=4a4e69&currStreakNum=1a1a2e&sideNums=4a4e69&dates=9a8c98#gh-light-mode-only" alt="GitHub Streak">
 </div>
 
 ---
@@ -106,11 +97,8 @@ const hoangduy0308 = {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake.svg#gh-light-mode-only" alt="Snake animation">
 </div>
 
 ---
@@ -119,11 +107,8 @@ const hoangduy0308 = {
 
 <div align="center">
   <a href="https://github.com/hoangduy0308/hoangduy0308">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=default&hide_border=true&bg_color=e0e1dd&title_color=1a1a2e&text_color=4a4e69&icon_color=9a8c98">
-      <img alt="Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98">
-    </picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98#gh-dark-mode-only" alt="Repo Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4a4e69&icon_color=9a8c98#gh-light-mode-only" alt="Repo Card">
   </a>
 </div>
 
@@ -134,15 +119,8 @@ const hoangduy0308 = {
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=hoangduy0308&style=for-the-badge&color=4a4e69&label=PROFILE+VIEWS">
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=hoangduy0308&style=for-the-badge&color=9a8c98&label=PROFILE+VIEWS">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=hoangduy0308&style=for-the-badge&color=4a4e69&label=PROFILE+VIEWS">
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=hoangduy0308&style=for-the-badge&color=4a4e69&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:1a1a2e&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9a8c98,100:e0e1dd&height=120&section=footer">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:1a1a2e&height=120&section=footer" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:1a1a2e&height=120&section=footer#gh-dark-mode-only" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9a8c98,100:e0e1dd&height=120&section=footer#gh-light-mode-only" width="100%" alt="Footer">
