@@ -1,16 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4e69&height=200&section=header&text=hoangduy0308&fontSize=60&fontColor=e0e1dd&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descSize=20&descColor=a0a3bd">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e1dd,100:9a8c98&height=200&section=header&text=hoangduy0308&fontSize=60&fontColor=1a1a2e&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descSize=20&descColor=4a4e69">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4e69&height=200&section=header&text=hoangduy0308&fontSize=60&fontColor=e0e1dd&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descSize=20&descColor=a0a3bd" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4e69&height=200&section=header&text=hoangduy0308&fontSize=60&fontColor=e0e1dd&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descSize=20&descColor=a0a3bd" width="100%" alt="Header">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E0E1DD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+robust+backend+systems;Crafting+scalable+APIs+%26+microservices;Turning+coffee+into+code+%E2%98%95">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1A1A2E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+robust+backend+systems;Crafting+scalable+APIs+%26+microservices;Turning+coffee+into+code+%E2%98%95">
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E0E1DD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+robust+backend+systems;Crafting+scalable+APIs+%26+microservices;Turning+coffee+into+code+%E2%98%95">
-    </picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E0E1DD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+robust+backend+systems;Crafting+scalable+APIs+%26+microservices;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG">
   </a>
 </div>
 
@@ -31,18 +23,10 @@ const hoangduy0308 = {
 
 <div align="center">
   <a href="https://facebook.com/hoangduy0308" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-      <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-    </picture>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://linkedin.com/in/hoangduy0308" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    </picture>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
@@ -77,10 +61,8 @@ const hoangduy0308 = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98#gh-dark-mode-only" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4a4e69&icon_color=9a8c98#gh-light-mode-only" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&hide=html,css#gh-dark-mode-only" alt="Top Languages">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4a4e69&hide=html,css#gh-light-mode-only" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&hide=html,css" alt="Top Languages">
 </div>
 
 ---
@@ -88,8 +70,7 @@ const hoangduy0308 = {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=4a4e69&ring=9a8c98&fire=e0e1dd&currStreakLabel=e0e1dd&sideLabels=a0a3bd&currStreakNum=e0e1dd&sideNums=a0a3bd&dates=4a4e69#gh-dark-mode-only" alt="GitHub Streak">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=default&hide_border=true&background=ffffff&stroke=9a8c98&ring=4a4e69&fire=1a1a2e&currStreakLabel=1a1a2e&sideLabels=4a4e69&currStreakNum=1a1a2e&sideNums=4a4e69&dates=9a8c98#gh-light-mode-only" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=4a4e69&ring=9a8c98&fire=e0e1dd&currStreakLabel=e0e1dd&sideLabels=a0a3bd&currStreakNum=e0e1dd&sideNums=a0a3bd&dates=4a4e69" alt="GitHub Streak">
 </div>
 
 ---
@@ -97,8 +78,7 @@ const hoangduy0308 = {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation">
-  <img src="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake.svg#gh-light-mode-only" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake-dark.svg" alt="Snake animation">
 </div>
 
 ---
@@ -107,8 +87,7 @@ const hoangduy0308 = {
 
 <div align="center">
   <a href="https://github.com/hoangduy0308/hoangduy0308">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98#gh-dark-mode-only" alt="Repo Card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=4a4e69&icon_color=9a8c98#gh-light-mode-only" alt="Repo Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e0e1dd&text_color=a0a3bd&icon_color=9a8c98" alt="Repo Card">
   </a>
 </div>
 
@@ -122,5 +101,4 @@ const hoangduy0308 = {
   <img src="https://komarev.com/ghpvc/?username=hoangduy0308&style=for-the-badge&color=4a4e69&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:1a1a2e&height=120&section=footer#gh-dark-mode-only" width="100%" alt="Footer">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9a8c98,100:e0e1dd&height=120&section=footer#gh-light-mode-only" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4e69,100:1a1a2e&height=120&section=footer" width="100%" alt="Footer">
