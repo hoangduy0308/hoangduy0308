@@ -58,19 +58,14 @@ const hoangduy0308 = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+<!--START_SECTION:activity-->
+<!-- GitHub Activity will appear here if you set up the action -->
+<!--END_SECTION:activity-->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoangduy0308&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduy0308&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages">
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduy0308&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangduy0308&theme=tokyonight" alt="GitHub Activity Graph">
 </div>
 
 ---
@@ -79,20 +74,6 @@ const hoangduy0308 = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/hoangduy0308/hoangduy0308/output/github-snake-dark.svg" alt="Snake animation">
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/hoangduy0308/hoangduy0308">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoangduy0308&repo=hoangduy0308&theme=tokyonight&hide_border=true" alt="Repo Card">
-  </a>
-</div>
-
-<div align="center">
-  <i>⭐ Check out my repositories for more backend projects!</i>
 </div>
 
 ---
