@@ -30,5 +30,5 @@ Currently looking for <strong>internship</strong> or <strong>junior backend deve
 ## GitHub activity
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangduy0308&theme=github-dark&hide_border=true&area=true" alt="Hoang Duy's GitHub activity graph" />
+  <img src="https://streak-stats.demolab.com?user=hoangduy0308&theme=github-dark-blue&hide_border=false&border_radius=4&card_width=500" alt="Hoang Duy's GitHub activity stats" />
 </p>
